@@ -1,201 +1,142 @@
-# Awesome-No-Code
-
-## Top No-Code Platform Ecosystem
-
-
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Visual App Builders, No-Code / Low-Code Development, Internal Tools, Web & Mobile Apps Without Traditional Coding*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **No-Code** development. These tools let non-developers and builders create web apps, mobile apps, internal tools, websites, and workflows through visual interfaces, drag-and-drop, and configuration instead of (or alongside) traditional programming.
-
-
-
-**Examples** include Bubble, Glide, Webflow, Thunkable, Softr, Adalo, Carrd, Noloco, Bravo Studio, and Dorik (the category leaders).
-
-
-
-**Open-source emphasis**: While consumer-facing no-code app builders are largely commercial, there is a robust open-source low-code / no-code ecosystem focused on internal tools and data-driven apps—led by **Appsmith**, **ToolJet**, **Budibase**, and **NocoDB**. This section lists every major active project found.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Bubble](https://bubble.io/)**  
-
-  Leading full-stack no-code platform for building complex web applications, SaaS products, and marketplaces with a real database, workflows, and user authentication.
-
-
-
-- **[Webflow](https://webflow.com/)**  
-
-  Design-focused no-code website and CMS platform widely used for marketing sites, content-driven experiences, and pixel-perfect visual development.
-
-
-
-- **[Glide](https://www.glideapps.com/)**  
-
-  Fast no-code tool that turns spreadsheets (Google Sheets, Airtable, etc.) into polished mobile and web apps—ideal for simple internal tools and data apps.
-
-
-
-- **[Softr, Adalo, Thunkable](https://www.softr.io/)**  
-
-  Platforms for building client portals, mobile apps, and progressive web apps from data sources or visual builders, with varying emphasis on Airtable, native mobile, or ease of use.
-
-
-
-- **[Carrd, Dorik, Noloco, Bravo Studio](https://carrd.co/)**  
-
-  Lightweight or specialized no-code tools for landing pages, simple sites, internal tools, and mobile front-ends connected to existing backends or data.
-
-
-
-- **[Other no-code & low-code platforms](https://bubble.io/)**  
-
-  Additional commercial builders covering AI-assisted generation, native mobile, and vertical-specific app creation.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Appsmith](https://github.com/appsmithorg/appsmith)**  
-
-  Leading open-source low-code platform for building internal tools, admin panels, and dashboards. Drag-and-drop UI, strong JavaScript support, and extensive data-source integrations. Apache 2.0 licensed.
-
-
-
-- **[ToolJet](https://github.com/ToolJet/ToolJet)**  
-
-  Open-source low-code platform for creating internal tools, workflows, and AI-assisted apps. Rich component library, many integrations, JavaScript & Python support, and self-hosting.
-
-
-
-- **[Budibase](https://github.com/Budibase/budibase)**  
-
-  Open-source no-code / low-code platform optimized for building business apps and CRUD tools quickly, with a built-in database and automation capabilities.
-
-
-
-- **[NocoDB](https://github.com/nocodb/nocodb)**  
-
-  Open-source Airtable alternative that turns any database into a smart spreadsheet interface with collaboration, forms, and API access—excellent foundation for no-code data apps.
-
-
-
-- **[Other open low-code / internal-tool builders](https://github.com/search?q=low-code+OR+no-code+OR+internal+tools+open+source)**  
-
-  Additional community projects focused on visual app building, admin interfaces, and self-hosted alternatives to commercial no-code tools.
-
-
-
-- **[Visual website & page builders](https://github.com/search?q=website+builder+OR+page+builder+open+source)**  
-
-  Open-source tools for creating landing pages and simple sites with drag-and-drop or block-based editing.
-
-
-
-- **[Mobile & cross-platform open builders](https://github.com/search?q=mobile+app+builder+OR+Flutter+no-code+open+source)**  
-
-  Experimental and community projects aiming at visual mobile app creation (often leveraging Flutter or web technologies).
-
-
-
-- **[Workflow & automation no-code layers](https://github.com/search?q=workflow+automation+OR+n8n+OR+node-red)**  
-
-  Open automation platforms (n8n, Node-RED, etc.) frequently combined with low-code UIs to create end-to-end no-code solutions.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Database-first tools**: NocoDB and similar spreadsheet-on-database interfaces as the data layer for custom front-ends.
-
-- **Retool-style internal tools**: Appsmith and ToolJet as direct open-source counterparts for admin and operations apps.
-
-- **Self-hosted website builders**: Open projects that generate static or dynamic sites from visual editors.
-
-- **AI-assisted builders**: Emerging open tools that generate UI or logic from natural language prompts.
-
-- **Component libraries**: Open UI kits that can be wired into low-code platforms or custom visual editors.
-
-- Composable stacks: NocoDB (data) + Appsmith/ToolJet (UI) + n8n (automation) for fully self-hosted no-code environments.
-
-
-
-**Frameworks for building custom systems**:  
-
-The strongest open-source foundations for no-code / low-code development are **Appsmith**, **ToolJet**, and **Budibase** for internal tools and business apps, plus **NocoDB** as an open Airtable-style data layer.  
-
-These excel at dashboards, admin panels, and data-driven internal software.  
-
-Commercial platforms (Bubble, Webflow, Glide, Softr, Adalo, etc.) lead for consumer-facing web/mobile apps, design control, and polished end-user experiences.  
-
-Many teams use open-source low-code tools for internal systems and commercial no-code platforms for customer-facing products or rapid marketing sites. Fully self-hosted no-code stacks are increasingly viable for privacy-sensitive or cost-sensitive organizations.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- No-code platforms abstract complexity but can introduce vendor lock-in, scaling limits, or security considerations. Always review data ownership, export options, and compliance needs.
-
-- Open-source low-code tools provide transparency and self-hosting advantages yet still require infrastructure management, updates, and careful access control. Evaluate total cost of ownership and technical capacity before production use.
-
-
+# Awesome No-Code ⚡
+
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome No-Code Banner" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-No-Code/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-No-Code?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-No-Code/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-No-Code?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-No-Code/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-No-Code?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
 ---
 
+## 🚀 Overview & Ecosystem Snapshot
 
+Welcome to **Awesome No-Code**, the ultimate curated collection of **No-Code & Low-Code development platforms**, visual app builders, website creators, internal tool engines, and open-source software building blocks.
 
-**Made for makers, product managers, operations teams, agencies, and anyone building software without (or with less) traditional code.**  
+Whether you are a founder launching a SaaS MVP, an enterprise engineer automating workflows, or a product team creating internal admin dashboards, this guide covers commercial leaders and self-hosted open-source alternatives.
 
-Let's expand accessible, open tools for creating applications while recognizing the polished experiences that leading commercial no-code platforms deliver.
+---
+
+## 📌 Table of Contents
+
+- [📊 SaaS & Hosted No-Code Platforms](#-saas--hosted-no-code-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧩 Composable No-Code Architectures](#-composable-no-code-architectures)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#-disclaimer)
+- [📈 Star History](#-star-history)
+
+---
+
+## 📊 SaaS & Hosted No-Code Platforms
+
+> 💡 **Market Size & Structure Insights**: The global No-Code & Low-Code platform market is estimated at **$30+ Billion in 2026** (projected to surpass $65 Billion by 2030 at a 22%+ CAGR). The sector is **moderately fragmented**—rather than a single "winner-take-all" vendor, specialized market leaders dominate distinct categories like visual web design (Webflow), complex full-stack web applications (Bubble), mobile apps (Glide/Adalo), and business landing pages (Carrd/Softr).
+
+| 🛠️ Product | 📝 Description | 💰 Valuation / Revenue / Size | 💳 Pricing (Paid Tiers) | 🎁 Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Webflow](https://webflow.com/)** | Design-focused visual website builder and CMS for responsive marketing sites, blogs, and visual web development without code. | **~$4.0 Billion Valuation** ($100M+ ARR) | Starting at **$14/mo** (Basic, billed annually) or $18/mo monthly | **Free Forever**: 2 static pages, 50 CMS items, webflow.io subdomain, 1k visitors/mo |
+| **[Bubble](https://bubble.io/)** | Full-stack visual app builder with database, workflow editor, plugin ecosystem, and user auth for web apps and SaaS products. | **~$480 Million Valuation** ($25M+ ARR) | Starting at **$29/mo** (Starter, billed annually) or $32/mo monthly | **Free Forever**: 50,000 workload units/mo, bubbleapps.io subdomain, dev mode |
+| **[Glide](https://www.glideapps.com/)** | Fast visual builder turning spreadsheets (Google Sheets, Airtable, Excel) into responsive web and mobile apps. | **~$200 Million Valuation** ($10M+ ARR) | Starting at **$25/mo** (Maker Plan) or $49/mo (Team Plan) | **Free Forever**: Up to 10 personal users, 500 data rows, glide.page subdomain |
+| **[Softr](https://www.softr.io/)** | Web app builder converting Airtable or Google Sheets into client portals, internal tools, and membership directories. | **~$50 Million Valuation** ($5M+ ARR) | Starting at **$49/mo** (Basic, billed annually) or $59/mo monthly | **Free Forever**: 1 custom domain, 5 internal users, 1,000 records, softr.app subdomain |
+| **[Thunkable](https://thunkable.com/)** | Drag-and-drop mobile app builder to create native iOS and Android applications with complete mobile API integrations. | **~$30 Million Valuation** ($3M+ ARR) | Starting at **$13/mo** (Starter, billed annually) or $15/mo monthly | **Free Forever**: Public projects, 200MB asset storage, 10 app downloads/mo |
+| **[Adalo](https://www.adalo.com/)** | Visual no-code mobile and web app builder with built-in database, native app store publishing, and custom API actions. | **~$25 Million Valuation** ($2M+ ARR) | Starting at **$36/mo** (Starter, billed annually) or $45/mo monthly | **Free Forever**: Unlimited test apps, 200 data records/app, adalo.com subdomain |
+| **[Carrd](https://carrd.co/)** | Ultra-lightweight visual builder for simple, responsive single-page websites, landing pages, and personal profiles. | **~$15 Million Valuation** ($2M+ ARR) | Starting at **$9/year** (~$0.75/mo, Pro Lite Plan) | **Free Forever**: Up to 3 sites per account, carrd.co subdomain, core blocks |
+| **[Noloco](https://noloco.io/)** | No-code app builder for creating custom internal tools, client portals, and CRM dashboards on top of Airtable, Postgres, and SQL. | **~$10 Million Valuation** ($1M+ ARR) | Starting at **$39/mo** (Starter, billed annually) or $49/mo monthly | **30-Day Free Trial**: Full Pro plan access, 1,000 data rows, 5 app users during trial |
+| **[Dorik](https://dorik.com/)** | Visual website and CMS builder with AI site generator, white-label features, and client billing integration. | **~$5 Million Valuation** ($1M+ ARR) | Starting at **$15/mo** (Personal, billed annually) or $19/mo monthly | **Free Forever**: Up to 5 pages, dorik.io subdomain, static site features & contact forms |
+| **[Bravo Studio](https://www.bravostudio.app/)** | No-code mobile builder turning Figma and Adobe XD designs into native iOS & Android apps via REST APIs. | **~$4 Million Valuation** ($500k+ ARR) | Starting at **€19/mo** (~$21/mo Solo Plan) | **Free Forever**: 1 app project, 15 app screens, watermarked test builds |
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+The open-source low-code / no-code ecosystem empowers organizations to deploy self-hosted visual builders, eliminate vendor lock-in, and maintain 100% data governance.
+
+*(Sorted descending by GitHub star count ⭐)*
+
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+   Fair-code workflow automation and node-based low-code integration builder connecting 400+ services with native AI node support.
+2. **[Supabase](https://github.com/supabase/supabase)** [![GitHub stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
+   Open-source Firebase alternative providing auto-generated REST & GraphQL APIs, Postgres database, auth, vector storage, and edge functions.
+3. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+   Open-source Notion alternative built with Flutter & Rust for privacy-first visual workspace management and custom data views.
+4. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+   Open-source Airtable alternative that turns any MySQL, PostgreSQL, SQL Server, or SQLite database into a smart spreadsheet interface with APIs & webhooks.
+5. **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+   Open-source low-code platform for building internal tools, admin panels, and workflows with drag-and-drop UI, custom JS/Python logic, and AI copilots.
+6. **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+   Popular low-code application builder for quick creation of internal admin portals, dashboards, and CRUD apps connecting to databases and APIs.
+7. **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+   Open-source headless CMS and data platform that dynamically mirrors any SQL database into a visual no-code app and instant APIs.
+8. **[Refine](https://github.com/refinedev/refine)** [![GitHub stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
+   React-based low-code framework for rapid development of enterprise internal tools, admin panels, B2B portals, and data-heavy web applications.
+9. **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+   Open-source low-code platform for creating internal tools, forms, and business automation workflows with built-in DB and SSO authentication.
+10. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+    Open-source Zapier alternative for no-code business automation, AI agents, and enterprise workflow orchestration.
+11. **[Amplication](https://github.com/amplication/amplication)** [![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=social&color=white)](https://github.com/amplication/amplication/stargazers)  
+    Open-source developer tool for low-code backend generation, automatically building Node.js / NestJS services, GraphQL & REST APIs, and Prisma ORM logic.
+12. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+    Open-source Qualtrics / Typeform alternative providing no-code micro-surveys, customer feedback widgets, and form builders.
+13. **[ILLA Builder](https://github.com/illa-family/illa-builder)** [![GitHub stars](https://img.shields.io/github/stars/illa-family/illa-builder?style=social&color=white)](https://github.com/illa-family/illa-builder/stargazers)  
+    Open-source low-code internal tool builder with real-time multiplayer editing, JS support, and AI agent integration.
+14. **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
+    Open-source no-code database and Airtable alternative allowing users to create relational databases, web apps, and customer portals without coding.
+15. **[Lowdefy](https://github.com/lowdefy/lowdefy)** [![GitHub stars](https://img.shields.io/github/stars/lowdefy/lowdefy?style=social&color=white)](https://github.com/lowdefy/lowdefy/stargazers)  
+    Open-source config-driven low-code framework to build internal tools, dashboards, and web forms using YAML or JSON.
+
+---
+
+## 🧩 Composable No-Code Architectures
+
+For self-hosted privacy and scalability, combining specialized open-source engines yields a complete modern stack:
+
+- 🗄️ **Data Engine**: **NocoDB** or **Supabase** (Database + Auto API layer)
+- 🖥️ **Visual UI**: **Appsmith** or **ToolJet** (Admin frontend + Drag-and-drop dashboard)
+- ⚡ **Workflow & Automation**: **n8n** or **Activepieces** (Background event processing & AI integrations)
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Please follow these simple guidelines:
+
+1. Fork this repository.
+2. Add your suggested SaaS product or open-source tool to `README.md`.
+3. Provide accurate information: exact starting pricing, free tier limits, GitHub star badges, or company metrics.
+4. Submit a Pull Request (PR) with a brief summary of the project.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository helpful, please consider showing your support:
+
+- ⭐ **Star** this repository to increase its visibility.
+- 🔀 **Fork** and share with fellow makers, product managers, and developers.
+- ☕ **Buy me a coffee**: Support ongoing open-source curation on the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a community-curated collection intended for educational and research purposes.
+- Always perform your own evaluation regarding security compliance, data locking, pricing scale, and maintenance overhead before adopting software in production environments.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-No-Code&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-No-Code&type=date&legend=top-left)
+
+---
+
+<p align="center">
+  <b>Made with ❤️ for makers, engineers, and creators everywhere.</b>
+</p>
