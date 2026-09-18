@@ -58,37 +58,37 @@ Whether you are a founder launching a SaaS MVP, an enterprise engineer automatin
 
 The open-source low-code / no-code ecosystem empowers organizations to deploy self-hosted visual builders, eliminate vendor lock-in, and maintain 100% data governance.
 
-*(Sorted descending by GitHub star count ⭐)*
+*(Sorted descending by GitHub Stars_Count ⭐)*
 
-1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
+1. **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
    Fair-code workflow automation and node-based low-code integration builder connecting 400+ services with native AI node support.
-2. **[Supabase](https://github.com/supabase/supabase)** [![GitHub stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
+2. **[Supabase](https://github.com/supabase/supabase)** [![GitHub_Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers)  
    Open-source Firebase alternative providing auto-generated REST & GraphQL APIs, Postgres database, auth, vector storage, and edge functions.
-3. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
+3. **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)  
    Open-source Notion alternative built with Flutter & Rust for privacy-first visual workspace management and custom data views.
-4. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
+4. **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)  
    Open-source Airtable alternative that turns any MySQL, PostgreSQL, SQL Server, or SQLite database into a smart spreadsheet interface with APIs & webhooks.
-5. **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
+5. **[ToolJet](https://github.com/ToolJet/ToolJet)** [![GitHub_Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
    Open-source low-code platform for building internal tools, admin panels, and workflows with drag-and-drop UI, custom JS/Python logic, and AI copilots.
-6. **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
+6. **[Appsmith](https://github.com/appsmithorg/appsmith)** [![GitHub_Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
    Popular low-code application builder for quick creation of internal admin portals, dashboards, and CRUD apps connecting to databases and APIs.
-7. **[Directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
+7. **[Directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)  
    Open-source headless CMS and data platform that dynamically mirrors any SQL database into a visual no-code app and instant APIs.
-8. **[Refine](https://github.com/refinedev/refine)** [![GitHub stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
+8. **[Refine](https://github.com/refinedev/refine)** [![GitHub_Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
    React-based low-code framework for rapid development of enterprise internal tools, admin panels, B2B portals, and data-heavy web applications.
-9. **[Budibase](https://github.com/Budibase/budibase)** [![GitHub stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
+9. **[Budibase](https://github.com/Budibase/budibase)** [![GitHub_Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
    Open-source low-code platform for creating internal tools, forms, and business automation workflows with built-in DB and SSO authentication.
-10. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
+10. **[Activepieces](https://github.com/activepieces/activepieces)** [![GitHub_Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
     Open-source Zapier alternative for no-code business automation, AI agents, and enterprise workflow orchestration.
-11. **[Amplication](https://github.com/amplication/amplication)** [![GitHub stars](https://img.shields.io/github/stars/amplication/amplication?style=social&color=white)](https://github.com/amplication/amplication/stargazers)  
+11. **[Amplication](https://github.com/amplication/amplication)** [![GitHub_Stars](https://img.shields.io/github/stars/amplication/amplication?style=social&color=white)](https://github.com/amplication/amplication/stargazers)  
     Open-source developer tool for low-code backend generation, automatically building Node.js / NestJS services, GraphQL & REST APIs, and Prisma ORM logic.
-12. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
+12. **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)  
     Open-source Qualtrics / Typeform alternative providing no-code micro-surveys, customer feedback widgets, and form builders.
-13. **[ILLA Builder](https://github.com/illa-family/illa-builder)** [![GitHub stars](https://img.shields.io/github/stars/illa-family/illa-builder?style=social&color=white)](https://github.com/illa-family/illa-builder/stargazers)  
+13. **[ILLA Builder](https://github.com/illa-family/illa-builder)** [![GitHub_Stars](https://img.shields.io/github/stars/illa-family/illa-builder?style=social&color=white)](https://github.com/illa-family/illa-builder/stargazers)  
     Open-source low-code internal tool builder with real-time multiplayer editing, JS support, and AI agent integration.
-14. **[Baserow](https://github.com/baserow/baserow)** [![GitHub stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
+14. **[Baserow](https://github.com/baserow/baserow)** [![GitHub_Stars](https://img.shields.io/github/stars/baserow/baserow?style=social&color=white)](https://github.com/baserow/baserow/stargazers)  
     Open-source no-code database and Airtable alternative allowing users to create relational databases, web apps, and customer portals without coding.
-15. **[Lowdefy](https://github.com/lowdefy/lowdefy)** [![GitHub stars](https://img.shields.io/github/stars/lowdefy/lowdefy?style=social&color=white)](https://github.com/lowdefy/lowdefy/stargazers)  
+15. **[Lowdefy](https://github.com/lowdefy/lowdefy)** [![GitHub_Stars](https://img.shields.io/github/stars/lowdefy/lowdefy?style=social&color=white)](https://github.com/lowdefy/lowdefy/stargazers)  
     Open-source config-driven low-code framework to build internal tools, dashboards, and web forms using YAML or JSON.
 
 ---
@@ -109,7 +109,7 @@ Contributions are warmly welcomed! Please follow these simple guidelines:
 
 1. Fork this repository.
 2. Add your suggested SaaS product or open-source tool to `README.md`.
-3. Provide accurate information: exact starting pricing, free tier limits, GitHub star badges, or company metrics.
+3. Provide accurate information: exact starting pricing, free tier limits, GitHub Stars_Badges, or company metrics.
 4. Submit a Pull Request (PR) with a brief summary of the project.
 
 ---
